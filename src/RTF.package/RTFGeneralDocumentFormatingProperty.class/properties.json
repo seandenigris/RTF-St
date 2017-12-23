@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFDocumentFormatingProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFGeneralDocumentFormatingProperty",
+	"type" : "normal"
+}

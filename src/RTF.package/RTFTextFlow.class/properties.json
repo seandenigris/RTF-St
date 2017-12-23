@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFTextFlowProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFTextFlow",
+	"type" : "normal"
+}

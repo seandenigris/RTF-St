@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFLineNumberingFormatingProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFLineNumbersContinue",
+	"type" : "normal"
+}

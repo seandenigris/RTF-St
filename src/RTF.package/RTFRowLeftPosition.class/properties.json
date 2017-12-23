@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFRowFormating",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFRowLeftPosition",
+	"type" : "normal"
+}

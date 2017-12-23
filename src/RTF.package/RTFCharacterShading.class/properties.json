@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFBordersFormating",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFCharacterShading",
+	"type" : "normal"
+}

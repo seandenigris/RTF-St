@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFTableDefinition",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFRowFormating",
+	"type" : "normal"
+}

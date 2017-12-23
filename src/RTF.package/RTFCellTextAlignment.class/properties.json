@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFCellFormating",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "RTFCellTextAlignment",
+	"type" : "normal"
+}

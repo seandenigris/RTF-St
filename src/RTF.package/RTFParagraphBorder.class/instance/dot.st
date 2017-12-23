@@ -1,0 +1,5 @@
+settings
+dot
+	"Set the receiver with this format."
+
+	^self format: 'brdrdot'

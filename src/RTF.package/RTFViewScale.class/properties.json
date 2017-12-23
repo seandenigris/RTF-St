@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFViewDocumentFormatingProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFViewScale",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFInformationTimeItem",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFCreationTime",
+	"type" : "normal"
+}

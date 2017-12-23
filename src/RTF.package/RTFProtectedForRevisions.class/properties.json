@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFRevisionsInformationProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFProtectedForRevisions",
+	"type" : "normal"
+}

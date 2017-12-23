@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFExpansion",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFShadow",
+	"type" : "normal"
+}

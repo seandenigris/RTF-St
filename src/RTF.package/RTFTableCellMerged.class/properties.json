@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFTableFormating",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFTableCellMerged",
+	"type" : "normal"
+}

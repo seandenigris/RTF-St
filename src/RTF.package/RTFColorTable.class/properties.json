@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFSortedGroup",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFColorTable",
+	"type" : "normal"
+}

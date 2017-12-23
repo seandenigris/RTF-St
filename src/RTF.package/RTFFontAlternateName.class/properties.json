@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFFontInfoItem",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name"
+	],
+	"name" : "RTFFontAlternateName",
+	"type" : "normal"
+}

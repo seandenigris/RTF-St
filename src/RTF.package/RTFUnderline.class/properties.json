@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFExpansion",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "RTFUnderline",
+	"type" : "normal"
+}

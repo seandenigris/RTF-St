@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFTextElement",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFBordersFormating",
+	"type" : "normal"
+}

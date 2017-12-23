@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFParagraphFormating",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFParagraphStyle",
+	"type" : "normal"
+}

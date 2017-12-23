@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFSingleElement",
+	"category" : "RTF-Dist",
+	"classinstvars" : [
+		"token"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parameter"
+	],
+	"name" : "RTFControlWord",
+	"type" : "normal"
+}

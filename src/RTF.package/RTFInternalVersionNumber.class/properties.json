@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFDocumentVersion",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFInternalVersionNumber",
+	"type" : "normal"
+}

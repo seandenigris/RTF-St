@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFBordersFormating",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "RTFCharacterPattern",
+	"type" : "normal"
+}

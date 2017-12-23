@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFModel",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"container",
+		"contents",
+		"borders",
+		"shading",
+		"verticalAlignment",
+		"textAlignment",
+		"rightBoundary"
+	],
+	"name" : "RTFCellModel",
+	"type" : "normal"
+}

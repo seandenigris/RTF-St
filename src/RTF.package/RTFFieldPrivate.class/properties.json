@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFFieldModificator",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFFieldPrivate",
+	"type" : "normal"
+}

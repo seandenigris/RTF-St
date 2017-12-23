@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFInformationItem",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFInformationValue",
+	"type" : "normal"
+}

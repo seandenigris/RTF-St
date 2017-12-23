@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFPageBordersInformationProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFPageBorderArt",
+	"type" : "normal"
+}

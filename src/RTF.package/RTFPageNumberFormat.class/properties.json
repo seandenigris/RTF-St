@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFPageNumberProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "RTFPageNumberFormat",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFColorElement",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "RTFColorComponent",
+	"type" : "normal"
+}

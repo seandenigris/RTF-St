@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFGeneralSectionFormatingProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFEndnotesIncludedInSection",
+	"type" : "normal"
+}

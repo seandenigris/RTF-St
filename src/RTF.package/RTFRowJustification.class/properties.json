@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFRowFormating",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "RTFRowJustification",
+	"type" : "normal"
+}

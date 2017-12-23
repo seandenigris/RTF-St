@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFShadingModel",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFCellShadingModel",
+	"type" : "normal"
+}

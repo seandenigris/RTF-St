@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFOrderedComposite",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Mappings"
+	],
+	"instvars" : [ ],
+	"name" : "RTFParagraphText",
+	"type" : "normal"
+}

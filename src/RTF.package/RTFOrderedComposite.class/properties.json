@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFComposite",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"elements"
+	],
+	"name" : "RTFOrderedComposite",
+	"type" : "normal"
+}

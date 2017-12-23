@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFSpecialCharacter",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFAchorSeparatorForFootnoteContinuation",
+	"type" : "normal"
+}

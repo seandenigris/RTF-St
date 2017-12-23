@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFModel",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cells",
+		"spaceBetweenRows",
+		"leftMargin",
+		"borders",
+		"columnsBorders",
+		"columnsShadings",
+		"columnsWidths",
+		"labelRows"
+	],
+	"name" : "RTFTableModel",
+	"type" : "normal"
+}

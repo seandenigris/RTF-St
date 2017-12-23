@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFTabFormating",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "RTFTabStyle",
+	"type" : "normal"
+}

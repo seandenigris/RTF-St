@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFComposite",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"header",
+		"document"
+	],
+	"name" : "RTFFile",
+	"type" : "normal"
+}

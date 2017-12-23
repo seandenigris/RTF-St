@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFControlWord",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "RTFHeaderAndFooterControl",
+	"type" : "normal"
+}

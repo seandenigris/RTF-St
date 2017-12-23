@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFColumnsFormatingProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFSpaceBetweenColumns",
+	"type" : "normal"
+}

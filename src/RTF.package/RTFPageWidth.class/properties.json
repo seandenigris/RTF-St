@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFPageInformationProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFPageWidth",
+	"type" : "normal"
+}

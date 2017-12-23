@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFNotesDocumentFormatingProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFFootnoteContinuedNotice",
+	"type" : "normal"
+}

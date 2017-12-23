@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFTableElement",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFTableRowElement",
+	"type" : "normal"
+}

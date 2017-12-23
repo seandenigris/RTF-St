@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFSortedComposite",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFSectionText",
+	"type" : "normal"
+}

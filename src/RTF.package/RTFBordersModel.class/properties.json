@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFModel",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"types",
+		"borders"
+	],
+	"name" : "RTFBordersModel",
+	"type" : "normal"
+}

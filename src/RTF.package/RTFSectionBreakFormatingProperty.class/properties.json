@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFSectionFormatingProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFSectionBreakFormatingProperty",
+	"type" : "normal"
+}

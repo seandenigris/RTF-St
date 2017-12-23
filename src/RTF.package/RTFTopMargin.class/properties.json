@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFMarginProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFTopMargin",
+	"type" : "normal"
+}

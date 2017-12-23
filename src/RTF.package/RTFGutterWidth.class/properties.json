@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFPageFormatingProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTFGutterWidth",
+	"type" : "normal"
+}

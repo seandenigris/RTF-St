@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RTFVerticalAlignmentProperty",
+	"category" : "RTF-Dist",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"format"
+	],
+	"name" : "RTFVerticalAlignment",
+	"type" : "normal"
+}
